@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>PPT</title>
+  <metadata>
+  <md:content-id>m30770</md:content-id><md:title>PPT</md:title>
+  <md:abstract/>
+  <md:uuid>8d74f6f3-d11c-4e68-aa73-b24930e3ea18</md:uuid>
+</metadata>
+
+<content>
+    <table id="id8460777" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>
+              <emphasis>Title</emphasis>
+            </entry>
+            <entry>
+              <emphasis>Download</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry>Introduction </entry>
+            <entry><link resource="417-intro-Fe-09.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry>Measuring Water Levels</entry>
+            <entry><link resource="Water levels.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry>Stream and discharge measurements</entry>
+            <entry><link resource="Stream and discharge measurements.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry>Stream classification</entry>
+            <entry><link resource="Stream classification.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry>Electronic data</entry>
+            <entry><link resource="Electronic data-09..pdf">Download</link></entry>
+          </row>
+        </tbody>
+      
+
+
+
+</tgroup>
+</table>
+  </content>
+</document>

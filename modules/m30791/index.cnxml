@@ -1,0 +1,111 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Outline: Hydrologic Processes and Effects of Land Use</title>
+  <metadata>
+  <md:content-id>m30791</md:content-id><md:title>Outline: Hydrologic Processes and Effects of Land Use</md:title>
+  <md:abstract/>
+  <md:uuid>dbdec6b1-9900-47ee-85b0-dec39dae6108</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-711656803783">
+      <title>Hydrologic Processes and Effects of Land Use</title>
+      <section id="id-196771801104">
+        <title>Objectives</title>
+        <para id="id18438307">This course has three basic goals. The first goal is to provide a rigorous understanding of hydrologic processes. Basic physical principles will be used to quantitatively analyse each component of the hydrologic cycle. The second goal is to integrate this information to understand and predict the highly variable behavior of undisturbed catchments according to the physical characteristics and weather conditions.</para>
+        <para id="id18697946">Thus the first part of the semester will provide a physically-based understanding of hydrologic and erosion processes. The last part of the course will focus on how natural (e.g., wildfire) and human disturbances (e.g., forest harvest, urbanization) affect each component of the hydrologic cycle. By summing each of the individual effects on each process we can begin to predict the likely impact of different land use activities on runoff, vegetation, and soils, and then how these changes will affect terrestrial and aquatic ecosystems. In this way we will achieve our third and ultimate goal, which is to develop the analytical tools needed to understand each possible combination of land use practices and catchment characteristics, and integrate all of this information to predict catchment response and guide watershed management.</para>
+      </section>
+      <section id="id-636443132643">
+        <title>Texts:</title>
+        <para id="id20726983">Dunne, T., and L.B. Leopold, 1978. Water in environmental planning. W.H. </para>
+        <para id="id20893012">Freeman and Co., New York. 818 pp.</para>
+        <para id="id18861601">Chang, Mingteh, 2006 (2nd edition). Forest hydrology, 2nd edition. CRC Press, Taylor and Francis Group, Boca Raton, Florida. 474 pp.</para>
+        <para id="id17826960">Other materials as distributed in class.</para>
+      </section>
+      <section id="id-486310026198">
+        <title>Grading (projected):</title>
+        <para id="id8960531">Homework assignments: 45%</para>
+        <para id="id17511051">Quizzes: 0-10%</para>
+        <para id="id19177104">Midterm: 20%</para>
+        <para id="id17481961">Final: 35%</para>
+      </section>
+      <section id="id-263926170931">
+        <title>Office hours:</title>
+        <para id="id17424100">Monday and Wednesday afternoons 3:00-5:00, Room 203, VFU Guesthouse</para>
+      </section>
+      <section id="id-787173711564">
+        <title>Final: </title>
+        <para id="id18723857">8 June at 0700-0900 </para>
+      </section>
+    </section>
+    <section id="id-35935035007">
+      <title>Course Outline and Readings</title>
+      <para id="id20650827">The numbers in parentheses after each topic indicate the approximate number of lectures for that topic. D&amp;L refers to Dunne and Leopold; Chang refers to the text by Chang.</para>
+      <section id="id21437389">
+        <title>Course introduction (D&amp;L p. 3-6, with balance of Ch. 1 as desired; Chang pp. 67-72)</title>
+<para id="id187238534"> </para>
+      </section>
+      
+      <section id="id-0208027674844">
+        <title>Hydrologic processes</title>
+        <list id="id20465034" list-type="bulleted">
+          <item>Precipitation (D&amp;L Chapter 2) [Weeks 1 and 2]</item>
+          <item>Interception (D&amp;L Chapter 3; Chang pp. 142-149)</item>
+          <item>Soil moisture (D&amp;L Ch. 6) [Week 3]</item>
+          <item>Infiltration, hydraulic conductivity, temporal and spatial variability (hand-out from</item>
+          <item>Dingman) [Weeks 4 and 5]</item>
+          <item>Groundwater and karst hydrology (D&amp;L Chapter 7) [Week 6]</item>
+          <item>Evapotranspiration (D&amp;L Chapter 4-5; Chang Chapter 9) [Week 7]</item>
+          <item>Energy budget (Week 7; week 8 for measurements field trip?]</item>
+        </list>
+      </section>
+    </section>
+    <section id="id-123396810153">
+      <title>Midterm </title>
+      <section id="id-196895277857">
+        <title>Basin-scale hydrology</title>
+        <list id="id17777730" list-type="bulleted">
+          <item>Water balance (D&amp;L Chapter 8)</item>
+          <item>Runoff processes (D&amp;L Chapter9) [Week 9]</item>
+          <item>Hydrologic modeling (rainfall-runoff) [Week 10]</item>
+          <item>Flood predictions, particularly in ungaged catchments (D&amp;L pp. 280-350)</item>
+        </list>
+      </section>
+      <section id="id-0699303876626">
+        <title>Watershed management (part 1)</title>
+        <list id="id21426841" list-type="bulleted">
+          <item>Effects of urbanization [Week 11]</item>
+          <item>Effects of forest harvest (Chang pp. 210-221)[Week 12] </item>
+        </list>
+      </section>
+      <section id="id-733137238734">
+        <title>Land use and water quality [Weeks 13 and 14]</title>
+        <list id="id20157557" list-type="bulleted">
+          <item>Sampling procedures</item>
+          <item>On-site physical measurements (temperature, pH, conductivity, dissolved oxygen)</item>
+          <item>Laboratory analyses (sediment, nitrate, phosphate, hardness, alkalinity, etc.)</item>
+          <item>Quality assurance/quality control; data plotting and reporting</item>
+        </list>
+      </section>
+      <section id="id-563017352366">
+        <title>Watershed management (part 2)</title>
+        <list id="id21152265" list-type="bulleted">
+          <item>Effects of roads [Week 15]</item>
+          <item>Effects of fires</item>
+          <item>Climate change</item>
+          <item>Other land use topics (e.g., agriculture, buffer strips, cumulative watershed effects, etc.) according to time and interests of the class; [Week 16]</item>
+           
+        </list>
+      </section>
+<section id="id-5630173523661">
+        <title>Wrap-up and conclusions [Week 16]</title>
+<para id="d-5630173523662"/>
+</section>
+    </section>
+    <section id="id-845960172933">
+      <title>Final</title>
+      <para id="id18109883">8 June 07:00-09:00</para>
+    </section>
+  </content>
+
+  
+</document>

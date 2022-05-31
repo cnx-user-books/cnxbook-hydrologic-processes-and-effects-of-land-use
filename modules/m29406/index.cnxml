@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Homeworks</title>
+  <metadata>
+  <md:content-id>m29406</md:content-id><md:title>Homeworks</md:title>
+  <md:abstract/>
+  <md:uuid>524b1312-0f5a-409e-a281-6bca761319f8</md:uuid>
+</metadata>
+
+<content>
+    <table id="id8461219" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry><emphasis>Title</emphasis></entry>
+            <entry><emphasis>Download</emphasis></entry>
+          </row>
+          <row>
+            <entry>Homework #1</entry>
+            <entry><link resource="Homework-1.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry>Homework #2: Precipitation and Interception (due 21 February 2009)</entry>
+            <entry><link resource="Homework2.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry>Homework #3: Soils and Water (due 28 March)</entry>
+            <entry><link resource="Homewrk3.pdf">Download</link></entry>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table>
+  </content>
+</document>
